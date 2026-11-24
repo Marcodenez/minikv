@@ -1,0 +1,7 @@
+build/
+*.o
+*.d
+*.mkv
+*.tmp
+gmon.out
+callgrind.out.*
