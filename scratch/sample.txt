@@ -1,0 +1,94 @@
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+Each chunk has a maximum capacity of 4096 bytes.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
+Repeated text helps us create a file large enough to test the buffer.
+MiniKV large file test.
+The purpose of this file is to test whether wc-lite can read data across multiple chunks.
+The program should continue reading until the entire file has been processed.
+It should count every byte and every newline character accurately.
